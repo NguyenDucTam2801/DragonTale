@@ -1,2 +1,4 @@
-package gameState;public class gameState {
+package gameState;
+
+public class gameState {
 }
